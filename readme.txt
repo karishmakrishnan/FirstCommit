@@ -1,2 +1,2 @@
 Hello everyone ,
-This is my commit in gitHub
+This is my first commit in gitHub
